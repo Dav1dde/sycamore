@@ -27,6 +27,7 @@ features = [
   "KeyboardEvent",
   "Location",
   "PopStateEvent",
+  "ScrollRestoration",
   "Url",
   "Window",
 ]
